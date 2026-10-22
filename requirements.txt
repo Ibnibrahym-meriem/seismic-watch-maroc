@@ -1,0 +1,7 @@
+requests
+minio
+SQLAlchemy
+psycopg[binary]
+python-dotenv
+pytest
+responses
